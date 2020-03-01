@@ -2,3 +2,7 @@ body, table, form, input, td, th, p, textarea, select {
     background-color: #000;
     color: #fff;
 }
+
+.page-header {
+    background-color: #fff;
+}
